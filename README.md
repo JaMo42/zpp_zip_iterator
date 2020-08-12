@@ -6,7 +6,7 @@ A python-style zip function for C++.
 
 Example:
 
-```
+```cpp
 #include "zip.hpp"
 
 int main() {
